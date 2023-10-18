@@ -1,0 +1,401 @@
+Patient ID,Name,Age,Gender,Blood Type,Admission Date,Discharge Date,Diagnosis,Treatment
+1,John Smith,45,Male,A+,01/09/23,05/09/23,Pneumonia,Antibiotics
+2,Jane Doe,32,Female,O-,02/09/23,04/09/23,Broken leg,Cast
+3,Bob Johnson,56,Male,AB+,03/09/23,07/09/23,Heart attack,Surgery
+4,Sarah Lee,28,Female,B-,04/09/23,06/09/23,Appendicitis,Surgery
+5,Michael Chen,41,Male,A-,05/09/23,08/09/23,Stroke,Medication
+6,Emily Wang,19,Female,A+,06/09/23,09/09/23,Asthma,Inhaler
+7,David Kim,63,Male,O+,07/09/23,10/09/23,Diabetes,Insulin
+8,Lisa Park,47,Female,AB-,08/09/23,11/09/23,Broken arm,Cast
+9,Alex Lee,25,Male,B+,09/09/23,12/09/23,Migraine,Painkillers
+10,Rachel Kim,36,Female,A-,10/09/23,13/09/23,Infection,Antibiotics
+11,Tom Lee,52,Male,O-,11/09/23,14/09/23,Cancer,Chemotherapy
+12,Jessica Kim,29,Female,AB+,12/09/23,15/09/23,Broken leg,Cast
+13,Kevin Park,44,Male,B-,13/09/23,16/09/23,Heartburn,Antacids
+14,Grace Lee,31,Female,A+,14/09/23,17/09/23,Allergic reaction,Epinephrine
+15,Daniel Kim,58,Male,O+,15/09/23,18/09/23,High blood pressure,Medication
+16,Michelle Lee,23,Female,AB-,16/09/23,19/09/23,Broken arm,Cast
+17,Brian Park,39,Male,B+,17/09/23,20/09/23,Flu,Rest
+18,Ashley Kim,27,Female,A-,18/09/23,21/09/23,Migraine,Painkillers
+19,Eric Lee,49,Male,O-,19/09/23,22/09/23,Appendicitis,Surgery
+20,Samantha Kim,33,Female,AB+,20/09/23,23/09/23,Broken leg,Cast
+21,Peter Park,55,Male,B-,21/09/23,24/09/23,Heart attack,Surgery
+22,Kelly Lee,22,Female,A+,22/09/23,25/09/23,Asthma,Inhaler
+23,Jason Kim,42,Male,O+,23/09/23,26/09/23,Diabetes,Insulin
+24,Rachel Park,38,Female,AB-,24/09/23,27/09/23,Broken arm,Cast
+25,Justin Lee,26,Male,B+,25/09/23,28/09/23,Infection,Antibiotics
+26,Lauren Kim,35,Female,A-,26/09/23,29/09/23,Cancer,Chemotherapy
+27,Andrew Park,50,Male,AB+,27/09/23,30/09/23,Heartburn,Antacids
+28,Megan Lee,30,Female,O-,28/09/23,01/10/23,Allergic reaction,Epinephrine
+29,David Kim,46,Male,B-,29/09/23,02/10/23,High blood pressure,Medication
+30,Emily Park,24,Female,A+,30/09/23,03/10/23,Broken arm,Cast
+31,James Lee,40,Male,O+,01/10/23,04/10/23,Flu,Rest
+32,Sarah Kim,28,Female,AB-,02/10/23,05/10/23,Migraine,Painkillers
+33,Michael Lee,51,Male,A-,03/10/23,06/10/23,Appendicitis,Surgery
+34,Jessica Park,34,Female,B+,04/10/23,07/10/23,Broken leg,Cast
+35,Daniel Kim,57,Male,AB+,05/10/23,08/10/23,Heart attack,Surgery
+36,Ashley Lee,26,Female,O-,06/10/23,09/10/23,Asthma,Inhaler
+37,Brian Kim,38,Male,A+,07/10/23,10/10/23,Diabetes,Insulin
+38,Samantha Park,32,Female,AB-,08/10/23,11/10/23,Broken arm,Cast
+39,Mark Smith,55,NULL,A+,10/10/23,13/10/23,Hypertension,Prescription
+40,Mary Doe,27,Female,O-,11/10/23,NULL,NULL,NULL
+41,Joe Johnson,61,Male,AB+,12/10/23,15/10/23,Diabetes,Surgery
+42,Anna Lee,NULL,Female,NULL,13/10/23,16/10/23,NULL,NULL
+43,Richard Chen,37,Male,O+,14/10/23,17/10/23,NULL,Antibiotics
+44,Lisa Wang,25,Female,A+,15/10/23,18/10/23,Asthma,NULL
+45,Mark Kim,48,NULL,B-,16/10/23,19/10/23,NULL,NULL
+46,Jessica Park,23,Female,B-,17/10/23,20/10/23,Broken arm,Epinephrine
+47,NULL,54,Male,AB+,18/10/23,21/10/23,NULL,NULL
+48,Susan Lee,29,Female,NULL,19/10/23,22/10/23,NULL,Surgery
+49,Chris Kim,42,Male,B+,NULL,24/10/23,Heart attack,Medication
+50,Jennifer Park,32,Female,A+,21/10/23,26/10/23,NULL,Cast
+51,Daniel Smith,49,Male,A+,22/10/23,27/10/23,NULL,NULL
+52,Sarah Doe,NULL,Female,O-,23/10/23,28/10/23,Asthma,Inhaler
+53,NULL,33,Male,A-,24/10/23,NULL,NULL,NULL
+54,William Lee,58,Male,B-,25/10/23,30/10/23,Diabetes,Surgery
+55,Laura Kim,28,Female,NULL,26/10/23,31/10/23,Heartburn,NULL
+56,Robert Park,45,Male,AB+,27/10/23,01/11/23,NULL,Insulin
+57,Emily Lee,40,NULL,B+,28/10/23,02/11/23,NULL,NULL
+58,Michael Kim,37,Male,A-,29/10/23,03/11/23,Appendicitis,NULL
+59,NULL,25,Female,O-,30/10/23,04/11/23,High blood pressure,NULL
+60,Sarah Chen,51,Female,AB-,31/10/23,05/11/23,NULL,NULL
+61,Megan Smith,34,Female,O+,01/11/23,04/11/23,Infection,Antibiotics
+62,Benjamin Doe,47,Male,B+,02/11/23,05/11/23,Kidney stones,Surgery
+63,Laura Johnson,29,Female,AB-,03/11/23,06/11/23,Bronchitis,Medication
+64,Daniel Lee,59,Male,A-,04/11/23,07/11/23,Broken arm,Cast
+65,Rebecca Kim,26,Female,A+,05/11/23,08/11/23,Allergic reaction,Epinephrine
+66,Thomas Park,42,Male,O-,06/11/23,09/11/23,Asthma,Inhaler
+67,Emily Lee,36,Female,AB+,07/11/23,10/11/23,Hypertension,Medication
+68,Andrew Kim,50,Male,B-,08/11/23,11/11/23,Migraine,Painkillers
+69,Natalie Chen,31,Female,O+,09/11/23,12/11/23,Stomachache,Antacids
+70,James Smith,55,Male,AB-,10/11/23,13/11/23,Broken leg,Cast
+71,NULL,38,Female,A-,11/11/23,NULL,NULL,NULL
+72,William Kim,49,Male,B+,12/11/23,15/11/23,Anxiety,Counseling
+73,Amelia Lee,27,Female,O-,13/11/23,16/11/23,Diabetes,Insulin
+74,Emily Wang,23,Female,A+,14/11/23,17/11/23,Allergic reaction,Epinephrine
+75,Daniel Park,58,Male,AB+,15/11/23,18/11/23,Heartburn,Antacids
+76,Sophia Lee,32,Female,O+,16/11/23,19/11/23,Flu,Rest
+77,Benjamin Kim,44,Male,B+,17/11/23,20/11/23,Migraine,Painkillers
+78,Olivia Park,30,Female,A-,18/11/23,21/11/23,Hypertension,Medication
+79,Michael Lee,53,Male,A-,19/11/23,22/11/23,Appendicitis,Surgery
+80,Ella Kim,37,Female,AB+,20/11/23,23/11/23,Broken arm,Cast
+81,NULL,41,Male,B-,21/11/23,NULL,NULL,NULL
+82,Harper Smith,22,Female,A+,22/11/23,25/11/23,High blood pressure,Medication
+83,Liam Doe,67,Male,O+,23/11/23,26/11/23,Broken arm,Cast
+84,Abigail Johnson,24,Female,B-,24/11/23,27/11/23,Allergic reaction,Epinephrine
+85,Elijah Lee,35,Male,AB-,25/11/23,28/11/23,Pneumonia,Antibiotics
+86,Charlotte Kim,28,Female,A-,26/11/23,29/11/23,Migraine,Painkillers
+87,James Park,48,Male,B+,27/11/23,30/11/23,Heart attack,Surgery
+88,Amelia Lee,31,Female,O-,28/11/23,01/12/23,Diabetes,Insulin
+89,Jackson Kim,52,Male,A+,29/11/23,02/12/23,Broken leg,Cast
+90,NULL,39,Female,AB+,30/11/23,NULL,NULL,NULL
+91,Penelope Smith,44,Female,B-,01/12/23,04/12/23,Flu,Rest
+92,Oliver Doe,28,Male,A-,02/12/23,05/12/23,Heartburn,Antacids
+93,Sophia Johnson,63,Female,O-,03/12/23,06/12/23,Appendicitis,Surgery
+94,William Lee,26,Male,AB+,04/12/23,07/12/23,Asthma,Inhaler
+95,NULL,36,Female,B-,05/12/23,NULL,NULL,NULL
+96,Noah Kim,30,Male,A+,06/12/23,09/12/23,Cancer,Chemotherapy
+97,Emma Park,49,Female,AB-,07/12/23,10/12/23,Broken arm,Cast
+98,Samuel Lee,31,Male,O+,08/12/23,11/12/23,High blood pressure,Medication
+99,Ava Kim,54,Female,A+,09/12/23,12/12/23,Migraine,Painkillers
+100,Alexander Park,37,Male,B-,10/12/23,13/12/23,Allergic reaction,Epinephrine
+101,Emily Smith,42,Female,O-,11/12/23,14/12/23,Pneumonia,Antibiotics
+102,Benjamin Doe,36,Male,A+,12/12/23,15/12/23,Kidney stones,Surgery
+103,Lily Johnson,28,Female,AB-,13/12/23,16/12/23,Bronchitis,Medication
+104,Christopher Lee,53,Male,B+,14/12/23,17/12/23,Broken arm,Cast
+105,Sophia Kim,25,Female,O+,15/12/23,18/12/23,Allergic reaction,Epinephrine
+106,Matthew Park,47,Male,A-,16/12/23,19/12/23,Asthma,Inhaler
+107,Charlotte Lee,33,Female,AB+,17/12/23,20/12/23,Hypertension,Medication
+108,Nicholas Kim,40,Male,B-,18/12/23,21/12/23,Migraine,Painkillers
+109,Evelyn Chen,29,Female,A+,19/12/23,22/12/23,Stomachache,Antacids
+110,William Smith,47,Male,O-,20/12/23,23/12/23,Appendicitis,Surgery
+111,Sophia Doe,28,Female,AB+,21/12/23,24/12/23,Broken leg,Cast
+112,Olivia Johnson,41,Female,B+,22/12/23,25/12/23,Anxiety,Counseling
+113,Noah Lee,55,Male,O-,23/12/23,26/12/23,Diabetes,Insulin
+114,Mia Kim,34,Female,A+,24/12/23,27/12/23,Allergic reaction,Epinephrine
+115,Alexander Park,60,Male,AB+,25/12/23,28/12/23,Heartburn,Antacids
+116,Ella Lee,29,Female,O+,26/12/23,29/12/23,Flu,Rest
+117,Benjamin Kim,49,Male,B+,27/12/23,30/12/23,Migraine,Painkillers
+118,Harper Park,37,Female,A-,28/12/23,31/12/23,Hypertension,Medication
+119,Olivia Lee,55,Female,A-,29/12/23,01/01/24,Appendicitis,Surgery
+120,Samuel Kim,31,Male,B-,30/12/23,02/01/24,Broken leg,Cast
+121,Sophia Smith,44,Female,A-,31/12/23,03/01/24,NULL,NULL
+122,Jacob Doe,29,Male,B+,01/01/24,04/01/24,NULL,NULL
+123,Grace Johnson,34,Female,O-,02/01/24,05/01/24,NULL,NULL
+124,Ethan Lee,28,Male,AB+,03/01/24,06/01/24,NULL,NULL
+125,Isabella Kim,31,Female,A-,04/01/24,07/01/24,NULL,NULL
+126,William Park,37,Male,O+,05/01/24,08/01/24,NULL,NULL
+127,Abigail Lee,42,Female,A-,06/01/24,09/01/24,NULL,NULL
+128,Elijah Kim,53,Male,AB+,07/01/24,10/01/24,NULL,NULL
+129,Charlotte Park,26,Female,O-,08/01/24,11/01/24,NULL,NULL
+130,NULL,35,Male,B-,09/01/24,NULL,NULL,NULL
+131,Oliver Smith,39,Male,A+,10/01/24,13/01/24,Broken arm,Cast
+132,Emily Doe,28,Female,O-,11/01/24,14/01/24,Stomachache,Antacids
+133,Ethan Johnson,34,Male,AB-,12/01/24,15/01/24,High blood pressure,Medication
+134,Ava Lee,25,Female,B+,13/01/24,16/01/24,Migraine,Painkillers
+135,Benjamin Kim,57,Male,A+,14/01/24,17/01/24,Pneumonia,Antibiotics
+136,Sophia Park,32,Female,B-,15/01/24,18/01/24,Asthma,Inhaler
+137,William Lee,49,Male,O+,16/01/24,19/01/24,Allergic reaction,Epinephrine
+138,Harper Kim,36,Female,AB+,17/01/24,20/01/24,Kidney stones,Surgery
+139,Jacob Park,41,Male,A-,18/01/24,21/01/24,Cancer,Chemotherapy
+140,Grace Lee,44,Female,B-,19/01/24,22/01/24,Heart attack,Surgery
+141,Noah Kim,29,Male,A-,20/01/24,23/01/24,Diabetes,Insulin
+142,Mia Park,54,Female,O-,21/01/24,24/01/24,Appendicitis,Surgery
+143,Samuel Lee,48,Male,AB+,22/01/24,25/01/24,Broken arm,Cast
+144,Emily Kim,31,Female,A+,23/01/24,26/01/24,Hypertension,Medication
+145,Matthew Park,62,Male,O-,24/01/24,27/01/24,Broken leg,Cast
+146,Amelia Lee,37,Female,AB-,25/01/24,28/01/24,Asthma,Inhaler
+147,Lily Chen,26,Female,B+,26/01/24,29/01/24,Heartburn,Antacids
+148,Benjamin Smith,33,Male,O+,27/01/24,30/01/24,Flu,Rest
+149,Ava Doe,45,Female,A-,28/01/24,31/01/24,Broken arm,Cast
+150,Oliver Johnson,30,Male,AB-,29/01/24,01/02/24,Kidney stones,Surgery
+151,Sophia Lee,47,Female,A-,30/01/24,02/02/24,High blood pressure,Medication
+152,William Park,29,Male,B-,31/01/24,03/02/24,Migraine,Painkillers
+153,Emma Kim,37,Female,O+,01/02/24,04/02/24,Allergic reaction,Epinephrine
+154,Daniel Smith,56,Male,AB+,02/02/24,05/02/24,Pneumonia,Antibiotics
+155,Olivia Doe,32,Female,A+,03/02/24,06/02/24,Stomachache,Antacids
+156,Noah Johnson,38,Male,O-,04/02/24,07/02/24,Heart attack,Surgery
+157,Harper Lee,26,Female,B+,05/02/24,08/02/24,Hypertension,Medication
+158,Mia Kim,41,Female,AB-,06/02/24,09/02/24,Migraine,Painkillers
+159,Jacob Park,48,Male,A-,07/02/24,10/02/24,Diabetes,Insulin
+160,Grace Lee,29,Female,A+,08/02/24,11/02/24,Allergic reaction,Epinephrine
+161,Liam Smith,27,Male,B+,12/02/24,15/02/24,Infection,Antibiotics
+162,Scarlett Doe,35,Female,A-,13/02/24,16/02/24,Asthma,Inhaler
+163,Henry Johnson,53,Male,O+,14/02/24,17/02/24,Pneumonia,Antibiotics
+164,Sophia Lee,24,Female,AB-,15/02/24,18/02/24,Kidney stones,Surgery
+165,Noah Kim,42,Male,B-,16/02/24,19/02/24,Bronchitis,Medication
+166,Olivia Park,28,Female,A+,17/02/24,20/02/24,Broken arm,Cast
+167,William Lee,38,Male,O-,18/02/24,21/02/24,Heart attack,Surgery
+168,Harper Kim,29,Female,AB+,19/02/24,22/02/24,Migraine,Painkillers
+169,Benjamin Park,46,Male,A-,20/02/24,23/02/24,Broken leg,Cast
+170,Mia Smith,31,Female,B+,21/02/24,24/02/24,Anxiety,Counseling
+171,Oliver Doe,55,Male,AB-,22/02/24,25/02/24,Diabetes,Insulin
+172,Amelia Johnson,33,Female,O+,23/02/24,26/02/24,Allergic reaction,Epinephrine
+173,Samuel Lee,47,Male,A-,24/02/24,27/02/24,Flu,Rest
+174,Grace Kim,36,Female,O-,25/02/24,28/02/24,High blood pressure,Medication
+175,Noah Park,41,Male,B+,26/02/24,29/02/24,Broken arm,Cast
+176,Mia Lee,29,Female,A-,27/02/24,01/03/24,NULL,NULL
+177,Samuel Kim,49,Male,A+,28/02/24,02/03/24,NULL,NULL
+178,Harper Park,37,Female,AB-,29/02/24,03/03/24,NULL,NULL
+179,Oliver Lee,56,Male,B-,01/03/24,04/03/24,NULL,NULL
+180,Emily Kim,32,Female,A+,02/03/24,05/03/24,NULL,NULL
+181,William Smith,45,Male,O+,03/03/24,06/03/24,NULL,NULL
+182,Grace Doe,30,Female,B-,04/03/24,07/03/24,NULL,NULL
+183,Noah Johnson,40,Male,O-,05/03/24,08/03/24,NULL,NULL
+184,Mia Lee,27,Female,A-,06/03/24,09/03/24,NULL,NULL
+185,Benjamin Park,37,Male,B+,07/03/24,10/03/24,NULL,NULL
+186,Sophia Smith,54,Female,A-,08/03/24,11/03/24,NULL,NULL
+187,William Kim,33,Male,AB+,09/03/24,12/03/24,NULL,NULL
+188,Olivia Park,49,Female,A+,10/03/24,13/03/24,NULL,NULL
+189,Jacob Lee,30,Male,O-,11/03/24,14/03/24,NULL,NULL
+190,Emily Kim,44,Female,O+,12/03/24,15/03/24,NULL,NULL
+191,Liam Smith,27,Male,B+,16/03/24,19/03/24,Stomachache,Antacids
+192,Scarlett Doe,35,Female,A-,17/03/24,20/03/24,Asthma,Inhaler
+193,Henry Johnson,53,Male,O+,18/03/24,21/03/24,Pneumonia,Antibiotics
+194,Sophia Lee,24,Female,AB-,19/03/24,22/03/24,Kidney stones,Surgery
+195,Noah Kim,42,Male,B-,20/03/24,23/03/24,Bronchitis,Medication
+196,Olivia Park,28,Female,A+,21/03/24,24/03/24,Broken arm,Cast
+197,William Lee,38,Male,O-,22/03/24,25/03/24,Heart attack,Surgery
+198,Harper Kim,29,Female,AB+,23/03/24,26/03/24,Migraine,Painkillers
+199,Benjamin Park,46,Male,A-,24/03/24,27/03/24,Broken leg,Cast
+200,Mia Smith,31,Female,B+,25/03/24,28/03/24,Anxiety,Counseling
+201,Oliver Doe,55,Male,AB-,26/03/24,29/03/24,Diabetes,Insulin
+202,Amelia Johnson,33,Female,O+,27/03/24,30/03/24,Allergic reaction,Epinephrine
+203,Samuel Lee,47,Male,A-,28/03/24,31/03/24,Flu,Rest
+204,Grace Kim,36,Female,O-,29/03/24,01/04/24,High blood pressure,Medication
+205,Noah Park,41,Male,B+,30/03/24,02/04/24,Broken arm,Cast
+206,Mia Lee,29,Female,A-,31/03/24,03/04/24,NULL,NULL
+207,Samuel Kim,49,Male,A+,01/04/24,04/04/24,NULL,NULL
+208,Harper Park,37,Female,AB-,02/04/24,05/04/24,NULL,NULL
+209,Oliver Lee,56,Male,B-,03/04/24,06/04/24,NULL,NULL
+210,Emily Kim,32,Female,A+,04/04/24,07/04/24,NULL,NULL
+211,William Smith,45,Male,O+,05/04/24,08/04/24,NULL,NULL
+212,Grace Doe,30,Female,B-,06/04/24,09/04/24,NULL,NULL
+213,Noah Johnson,40,Male,O-,07/04/24,10/04/24,NULL,NULL
+214,Mia Lee,27,Female,A-,08/04/24,11/04/24,NULL,NULL
+215,Benjamin Park,37,Male,B+,09/04/24,12/04/24,NULL,NULL
+216,Sophia Smith,54,Female,A-,10/04/24,13/04/24,NULL,NULL
+217,William Kim,33,Male,AB+,11/04/24,14/04/24,NULL,NULL
+218,Olivia Park,49,Female,A+,12/04/24,15/04/24,NULL,NULL
+219,Jacob Lee,30,Male,O-,13/04/24,16/04/24,NULL,NULL
+220,Emily Kim,44,Female,O+,14/04/24,17/04/24,NULL,NULL
+221,Liam Smith,27,Male,B+,18/04/24,21/04/24,Stomachache,Antacids
+222,Scarlett Doe,35,Female,A-,19/04/24,22/04/24,Asthma,Inhaler
+223,Henry Johnson,53,Male,O+,20/04/24,23/04/24,Pneumonia,Antibiotics
+224,Sophia Lee,24,Female,AB-,21/04/24,24/04/24,Kidney stones,Surgery
+225,Noah Kim,42,Male,B-,22/04/24,25/04/24,Bronchitis,Medication
+226,Olivia Park,28,Female,A+,23/04/24,26/04/24,Broken arm,Cast
+227,William Lee,38,Male,O-,24/04/24,27/04/24,Heart attack,Surgery
+228,Harper Kim,29,Female,AB+,25/04/24,28/04/24,Migraine,Painkillers
+229,Benjamin Park,46,Male,A-,26/04/24,29/04/24,Broken leg,Cast
+230,Mia Smith,31,Female,B+,27/04/24,30/04/24,Anxiety,Counseling
+231,Oliver Doe,55,Male,AB-,28/04/24,01/05/24,Diabetes,Insulin
+232,Amelia Johnson,33,Female,O+,29/04/24,02/05/24,Allergic reaction,Epinephrine
+233,Samuel Lee,47,Male,A-,30/04/24,03/05/24,Flu,Rest
+234,Grace Kim,36,Female,O-,01/05/24,04/05/24,High blood pressure,Medication
+235,Noah Park,41,Male,B+,02/05/24,05/05/24,Broken arm,Cast
+236,Mia Lee,29,Female,A-,03/05/24,06/05/24,Appendicitis,Surgery
+237,Samuel Kim,49,Male,A+,04/05/24,07/05/24,Pneumonia,Antibiotics
+238,Harper Park,37,Female,AB-,05/05/24,08/05/24,Asthma,Inhaler
+239,Oliver Lee,56,Male,B-,06/05/24,09/05/24,Diabetes,Insulin
+240,Emily Kim,32,Female,A+,07/05/24,10/05/24,Allergic reaction,Epinephrine
+241,William Smith,45,Male,O+,08/05/24,11/05/24,Migraine,Painkillers
+242,Grace Doe,30,Female,B-,09/05/24,12/05/24,Broken arm,Cast
+243,Noah Johnson,40,Male,O-,10/05/24,13/05/24,Stomachache,Antacids
+244,Mia Lee,27,Female,A-,11/05/24,14/05/24,Kidney stones,Surgery
+245,Benjamin Park,37,Male,B+,12/05/24,15/05/24,Anxiety,Counseling
+246,Sophia Smith,54,Female,A-,13/05/24,16/05/24,Diabetes,Insulin
+247,William Kim,33,Male,AB+,14/05/24,17/05/24,Allergic reaction,Epinephrine
+248,Olivia Park,49,Female,A+,15/05/24,18/05/24,Stomachache,Antacids
+249,Jacob Lee,30,Male,O-,16/05/24,19/05/24,High blood pressure,Medication
+250,Emily Kim,44,Female,O+,17/05/24,20/05/24,Broken arm,Cast
+251,Noah Smith,31,Male,A+,21/05/24,24/05/24,Allergic reaction,Epinephrine
+252,Mia Doe,26,Female,O-,22/05/24,25/05/24,Migraine,Painkillers
+253,Oliver Johnson,50,Male,AB+,23/05/24,26/05/24,Broken leg,Cast
+254,Sophia Lee,28,Female,A-,24/05/24,27/05/24,Appendicitis,Surgery
+255,Liam Kim,37,Male,B+,25/05/24,28/05/24,Heartburn,Antacids
+256,Scarlett Park,29,Female,A+,26/05/24,29/05/24,Pneumonia,Antibiotics
+257,Henry Lee,48,Male,O+,27/05/24,30/05/24,High blood pressure,Medication
+258,Olivia Kim,34,Female,AB-,28/05/24,31/05/24,Flu,Rest
+259,Benjamin Park,44,Male,B-,29/05/24,01/06/24,Broken arm,Cast
+260,Harper Smith,39,Female,B+,30/05/24,02/06/24,Stomachache,Antacids
+261,Samuel Doe,55,Male,O-,31/05/24,03/06/24,Diabetes,Insulin
+262,Grace Johnson,36,Female,A-,01/06/24,04/06/24,Stomachache,Antacids
+263,William Lee,52,Male,AB+,02/06/24,05/06/24,Broken leg,Cast
+264,Mia Park,30,Female,B+,03/06/24,06/06/24,Asthma,Inhaler
+265,Oliver Kim,43,Male,O-,04/06/24,07/06/24,Heart attack,Surgery
+266,Amelia Lee,31,Female,A+,05/06/24,08/06/24,Migraine,Painkillers
+267,Noah Park,49,Male,B-,06/06/24,09/06/24,High blood pressure,Medication
+268,Mia Kim,35,Female,AB-,07/06/24,10/06/24,Broken arm,Cast
+269,Henry Smith,56,Male,O+,08/06/24,11/06/24,Stomachache,Antacids
+270,Scarlett Doe,33,Female,A-,09/06/24,12/06/24,Pneumonia,Antibiotics
+271,Benjamin Johnson,41,Male,A+,10/06/24,13/06/24,Diabetes,Insulin
+272,Olivia Lee,27,Female,B-,11/06/24,14/06/24,Flu,Rest
+273,William Kim,46,Male,O-,12/06/24,15/06/24,Broken arm,Cast
+274,Grace Park,37,Female,AB+,13/06/24,16/06/24,Stomachache,Antacids
+275,Samuel Smith,53,Male,A+,14/06/24,17/06/24,Asthma,Inhaler
+276,Harper Doe,30,Female,O+,15/06/24,18/06/24,High blood pressure,Medication
+277,Benjamin Lee,42,Male,A-,16/06/24,19/06/24,Broken leg,Cast
+278,Mia Kim,32,Female,B+,17/06/24,20/06/24,Appendicitis,Surgery
+279,Oliver Park,50,Male,O-,18/06/24,21/06/24,Allergic reaction,Epinephrine
+280,Sophia Lee,34,Female,A+,19/06/24,22/06/24,Migraine,Painkillers
+281,Liam Smith,29,Male,A+,23/06/24,26/06/24,Kidney stones,Surgery
+282,Scarlett Doe,38,Female,B-,24/06/24,27/06/24,Allergic reaction,Epinephrine
+283,Henry Johnson,55,Male,AB+,25/06/24,28/06/24,Broken arm,Cast
+284,Sophia Lee,31,Female,A-,26/06/24,29/06/24,Heartburn,Antacids
+285,Noah Kim,44,Male,O+,27/06/24,30/06/24,Asthma,Inhaler
+286,Olivia Park,30,Female,O-,28/06/24,01/07/24,High blood pressure,Medication
+287,William Lee,45,Male,B+,29/06/24,02/07/24,Broken leg,Cast
+288,Harper Kim,32,Female,A+,30/06/24,03/07/24,Cancer,Chemotherapy
+289,Benjamin Park,58,Male,B-,01/07/24,04/07/24,Stroke,Medication
+290,Mia Smith,36,Female,AB-,02/07/24,05/07/24,Appendicitis,Surgery
+291,Oliver Doe,52,Male,O-,03/07/24,06/07/24,Migraine,Painkillers
+292,Amelia Johnson,34,Female,A-,04/07/24,07/07/24,Broken arm,Cast
+293,Samuel Lee,49,Male,A+,05/07/24,08/07/24,Heart attack,Surgery
+294,Grace Kim,37,Female,O+,06/07/24,09/07/24,Diabetes,Insulin
+295,Noah Park,46,Male,AB+,07/07/24,10/07/24,Infection,Antibiotics
+296,Mia Lee,33,Female,B+,08/07/24,11/07/24,Pneumonia,Antibiotics
+297,Samuel Kim,57,Male,B-,09/07/24,12/07/24,Allergic reaction,Epinephrine
+298,Harper Park,35,Female,A-,10/07/24,13/07/24,Flu,Rest
+299,Oliver Lee,42,Male,O-,11/07/24,14/07/24,Broken leg,Cast
+300,Emily Kim,28,Female,AB-,12/07/24,15/07/24,Kidney stones,Surgery
+301,Lucas Martin,26,Male,A+,16/07/24,19/07/24,Inconsistent Diagnosis,Aspirin
+302,Lily Brown,41,Female,O-,17/07/24,20/07/24,Indigestion,NULL
+303,Benjamin Wright,62,Male,AB+,18/07/24,21/07/24,NULL,Surgery
+304,Mia Davis,29,Female,A-,19/07/24,22/07/24,Hypertension,Medication
+305,William Anderson,37,Male,A-,20/07/24,23/07/24,NULL,Cast
+306,Emily Wilson,53,Female,O+,21/07/24,24/07/24,Broken arm,Antacids
+307,James Johnson,45,Male,B+,22/07/24,25/07/24,NULL,Chemotherapy
+308,Sophia Taylor,38,Female,O-,23/07/24,26/07/24,Diabetes,Insulin
+309,Benjamin Lee,31,Male,A+,24/07/24,27/07/24,NULL,NULL
+310,Ava Thomas,27,Female,B-,25/07/24,28/07/24,NULL,Rest
+311,Jackson Garcia,50,Male,AB-,26/07/24,29/07/24,NULL,Epinephrine
+312,Emma Martinez,35,Female,B+,27/07/24,30/07/24,NULL,Medication
+313,Oliver White,43,Male,AB+,28/07/24,31/07/24,NULL,NULL
+314,Mia Hall,31,Female,O-,29/07/24,01/08/24,NULL,Cast
+315,Henry Rodriguez,29,Male,A-,30/07/24,02/08/24,NULL,Surgery
+316,Sophia Davis,36,Female,O+,31/07/24,03/08/24,NULL,Inhaler
+317,William Clark,44,Male,A+,01/08/24,04/08/24,NULL,NULL
+318,Ava Harris,34,Female,B-,02/08/24,05/08/24,NULL,Medication
+319,Benjamin Young,49,Male,A-,03/08/24,06/08/24,NULL,NULL
+320,Lily Moore,37,Female,O-,04/08/24,07/08/24,NULL,Cast
+321,Noah Smith,28,Male,B+,08/08/24,11/08/24,Allergic reaction,Epinephrine
+322,Mia Doe,39,Female,O-,09/08/24,12/08/24,Migraine,Painkillers
+323,Oliver Johnson,56,Male,AB+,10/08/24,13/08/24,Broken leg,Cast
+324,Sophia Lee,32,Female,A-,11/08/24,14/08/24,Appendicitis,Surgery
+325,Liam Kim,43,Male,B+,12/08/24,15/08/24,Heartburn,Antacids
+326,Scarlett Park,31,Female,A+,13/08/24,16/08/24,Stomachache,Antacids
+327,Henry Lee,49,Male,O+,14/08/24,17/08/24,Asthma,Inhaler
+328,Olivia Kim,35,Female,AB-,15/08/24,18/08/24,Flu,Rest
+329,Benjamin Park,45,Male,B-,16/08/24,19/08/24,Diabetes,Insulin
+330,Harper Smith,36,Female,B+,17/08/24,20/08/24,Broken leg,Cast
+331,Samuel Doe,54,Male,A-,18/08/24,21/08/24,Stomachache,Antacids
+332,Grace Johnson,33,Female,O+,19/08/24,22/08/24,Pneumonia,Antibiotics
+333,William Lee,46,Male,AB+,20/08/24,23/08/24,Diabetes,Insulin
+334,Mia Park,30,Female,A+,21/08/24,24/08/24,Infection,Antibiotics
+335,Oliver Kim,49,Male,O-,22/08/24,25/08/24,Cancer,Chemotherapy
+336,Amelia Lee,37,Female,A+,23/08/24,26/08/24,High blood pressure,Medication
+337,Noah Park,44,Male,AB-,24/08/24,27/08/24,Stomachache,Antacids
+338,Mia Lee,34,Female,B+,25/08/24,28/08/24,Broken leg,Cast
+339,Samuel Kim,53,Male,A-,26/08/24,29/08/24,Heart attack,Surgery
+340,Harper Park,32,Female,O+,27/08/24,30/08/24,Asthma,Inhaler
+341,Olivia Thomas,29,Female,O-,31/08/24,03/09/24,Allergic reaction,Epinephrine
+342,Benjamin Garcia,43,Male,B+,01/09/24,04/09/24,Migraine,Painkillers
+343,Amelia Martinez,48,Female,AB-,02/09/24,05/09/24,Broken arm,Cast
+344,Henry Wilson,31,Male,A-,03/09/24,06/09/24,Appendicitis,Surgery
+345,Scarlett Hall,36,Female,O+,04/09/24,07/09/24,Heartburn,Antacids
+346,Liam Rodriguez,52,Male,AB+,05/09/24,08/09/24,Diabetes,Insulin
+347,Ava Moore,28,Female,A+,06/09/24,09/09/24,Infection,Antibiotics
+348,Benjamin Clark,47,Male,B-,07/09/24,10/09/24,Cancer,Chemotherapy
+349,Emily Young,30,Female,B+,08/09/24,11/09/24,Broken leg,Cast
+350,Jackson Harris,54,Male,O-,09/09/24,12/09/24,Stomachache,Antacids
+351,Grace Davis,35,Female,A+,10/09/24,13/09/24,Pneumonia,Antibiotics
+352,William Clark,45,Male,O+,11/09/24,14/09/24,Diabetes,Insulin
+353,Mia Hall,33,Female,AB+,12/09/24,15/09/24,Infection,Antibiotics
+354,Henry Garcia,57,Male,B-,13/09/24,16/09/24,Cancer,Chemotherapy
+355,Olivia Martinez,37,Female,A+,14/09/24,17/09/24,High blood pressure,Medication
+356,Benjamin White,46,Male,O-,15/09/24,18/09/24,Stomachache,Antacids
+357,Ava Wilson,32,Female,A-,16/09/24,19/09/24,Broken leg,Cast
+358,William Johnson,55,Male,AB-,17/09/24,20/09/24,Heart attack,Surgery
+359,Lily Davis,34,Female,B+,18/09/24,21/09/24,Asthma,Inhaler
+360,Noah Clark,50,Male,A-,19/09/24,22/09/24,Broken leg,Cast
+361,Emily Moore,31,Female,AB-,23/09/24,26/09/24,Migraine,Painkillers
+362,Oliver Rodriguez,49,Male,O-,24/09/24,27/09/24,High blood pressure,Medication
+363,Mia Davis,30,Female,A-,25/09/24,28/09/24,Appendicitis,Surgery
+364,Benjamin Wilson,42,Male,A+,26/09/24,29/09/24,Broken arm,Cast
+365,Lily Johnson,57,Female,B+,27/09/24,30/09/24,Pneumonia,Antibiotics
+366,Noah Smith,33,Male,O+,28/09/24,01/10/24,Diabetes,Insulin
+367,Olivia Martinez,48,Female,AB+,29/09/24,02/10/24,Allergic reaction,Epinephrine
+368,Benjamin Clark,29,Male,B-,30/09/24,03/10/24,Broken leg,Cast
+369,Ava Harris,36,Female,O-,01/10/24,04/10/24,Asthma,Inhaler
+370,Samuel Moore,54,Male,A+,02/10/24,05/10/24,High blood pressure,Medication
+371,Grace Taylor,35,Female,B+,03/10/24,06/10/24,Broken arm,Cast
+372,Oliver White,47,Male,A-,04/10/24,07/10/24,Kidney stones,Surgery
+373,Amelia Harris,32,Female,O+,05/10/24,08/10/24,Infection,Antibiotics
+374,Benjamin Anderson,53,Male,B-,06/10/24,09/10/24,Heart attack,Surgery
+375,Lily Thomas,40,Female,AB-,07/10/24,10/10/24,Migraine,Painkillers
+376,William Clark,39,Male,A-,08/10/24,11/10/24,Stomachache,Antacids
+377,Mia Hall,58,Female,A+,09/10/24,12/10/24,Flu,Rest
+378,Henry Garcia,37,Male,B-,10/10/24,13/10/24,Allergic reaction,Epinephrine
+379,Ava Moore,43,Female,AB-,11/10/24,14/10/24,Diabetes,Insulin
+380,Jackson Wilson,45,Male,O-,12/10/24,15/10/24,Stomachache,Antacids
+381,Mia Anderson,28,Female,B+,16/10/24,19/10/24,Allergic reaction,Epinephrine
+382,Oliver Harris,41,Male,A+,17/10/24,20/10/24,Migraine,Painkillers
+383,Amelia Moore,59,Female,O-,18/10/24,21/10/24,Broken leg,Cast
+384,Benjamin Taylor,33,Male,A-,19/10/24,22/10/24,Appendicitis,Surgery
+385,Lily White,38,Female,AB+,20/10/24,23/10/24,Heartburn,Antacids
+386,Noah Hall,56,Male,O+,21/10/24,24/10/24,Diabetes,Insulin
+387,Ava Garcia,30,Female,B-,22/10/24,25/10/24,Infection,Antibiotics
+388,Samuel Clark,50,Male,A+,23/10/24,26/10/24,Cancer,Chemotherapy
+389,Emily Johnson,34,Female,AB-,24/10/24,27/10/24,High blood pressure,Medication
+390,Jackson Rodriguez,47,Male,B-,25/10/24,28/10/24,Broken leg,Cast
+391,Grace Martinez,31,Female,O+,26/10/24,29/10/24,Allergic reaction,Epinephrine
+392,William Davis,39,Male,O-,27/10/24,30/10/24,Diabetes,Insulin
+393,Mia Thomas,54,Female,A+,28/10/24,31/10/24,Infection,Antibiotics
+394,Oliver Harris,36,Male,B+,29/10/24,01/11/24,Pneumonia,Antibiotics
+395,Sophia Moore,44,Female,AB+,30/10/24,02/11/24,Diabetes,Insulin
+396,Benjamin White,35,Male,B-,31/10/24,03/11/24,Kidney stones,Surgery
+397,Ava Davis,45,Female,A+,01/11/24,04/11/24,Broken leg,Cast
+398,Liam Johnson,37,Male,A-,02/11/24,05/11/24,Stomachache,Antacids
+399,Grace Clark,52,Female,O-,03/11/24,06/11/24,Heart attack,Surgery
+400,Noah Davis,41,Male,A-,04/11/24,07/11/24,Asthma,Inhaler
